@@ -1,7 +1,7 @@
 ---
 layout: 'base.njk'
 permalink: /
-title: 'My Eleventy Website'
+title: 'RMC Class of 2003 / CMR promotion 2003'
 ---
 
-# Hello World!
+# RMC Class of 2003 / CMR promotion 2003
